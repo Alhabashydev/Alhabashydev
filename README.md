@@ -12,14 +12,13 @@
 const Alhabashy = {
     name: "Alhabashy",
     role: "Full Stack Developer",
-    from: "UAE / Egypt",
+    from: "Kuwait / Egypt",
     mainFocus: [
         "Website Development",
         "FiveM Development",
         "Frontend Interfaces",
         "Backend Systems",
-        "Discord Bots",
-        "Premium UI/UX"
+        "Discord Bots"
     ],
     currentlyBuilding: [
         "Portfolio Websites",
@@ -44,8 +43,7 @@ const Alhabashy = {
         "Lua",
         "QBCore",
         "ESX",
-        "Discord Bots",
-        "Website Ideas"
+        "Discord Bots"
     ],
     quote: "Build clean. Move smart. Make it premium."
 };
@@ -109,8 +107,8 @@ const techStack = {
     frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Vite", "Tailwind CSS"],
     backend: ["Node.js", "Express"],
     databases: ["MySQL", "SQLite"],
-    fivem: ["Lua", "QBCore", "ESX", "QBox", "ox_lib"],
-    tools: ["Git", "GitHub", "VS Code", "Figma"],
+    fivem: ["QBCore", "ESX", "QBox"],
+    tools: ["Git", "GitHub", "VS Code"],
     designStyle: ["Premium Black", "Minimal UI", "Smooth Animations", "Clean Layouts"]
 };
 ```
@@ -179,9 +177,6 @@ Competitive mindset in game.
 ---
 
 <div align="center">
-
-<i>"Too many people build projects. Few make them feel premium."</i>
-
 <br><br>
 
 <a href="https://github.com/Alhabashydev">
